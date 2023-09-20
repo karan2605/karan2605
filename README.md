@@ -37,10 +37,10 @@ I am a software engineer currently working within the banking industry with a pa
 ## GitHub Stats 📈
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=karan2605&theme=github_dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=karan2605&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan2605&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan2605&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 ## Currently Learning 🧠
