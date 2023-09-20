@@ -1,6 +1,16 @@
 ## About Me
+I am a software engineer currently working within the banking industry with a passion in Blockchain and Distributed Ledger Technology(DLT, feel free to check out some of my blockchain development projects below. Experienced in Java and Python programming too. Committed to consistency and transparency, dedicated to continuous development, a test-driven development style and energised by a challenge
 
-## Languages and Tools
+<div align= "center"  markdown="1">
+  <a href="https://linkedin.com/in/karan-patel-s">
+    <img height=30 align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/karan2605/">
+    <img height=30 align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
+</div>
+
+## Languages and Tools ⚒️
 <div align= "center"  markdown="1">
   
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -14,6 +24,7 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -23,7 +34,7 @@
   ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 </div>
 
-## GitHub Stats
+## GitHub Stats 📈
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=karan2605&theme=github_dark" />
@@ -32,6 +43,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan2605&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </a>
 
-## Currently Learning 
+## Currently Learning 🧠
 
 
