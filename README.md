@@ -1,5 +1,5 @@
 ## About Me
-I am a software engineer currently working within the banking industry with a passion in Blockchain and Distributed Ledger Technology(DLT, feel free to check out some of my blockchain development projects below. Experienced in Java and Python programming too. Committed to consistency and transparency, dedicated to continuous development, a test-driven development style and energised by a challenge
+I am a software engineer currently working within the banking industry with a passion in Blockchain and Distributed Ledger Technology(DLT), feel free to check out some of my blockchain development projects below. Experienced in Java and Python programming too. Committed to consistency and transparency, dedicated to continuous development, a test-driven development style and energised by a challenge
 
 <div align= "center"  markdown="1">
   <a href="https://linkedin.com/in/karan-patel-s">
@@ -44,5 +44,7 @@ I am a software engineer currently working within the banking industry with a pa
 </a>
 
 ## Currently Learning 🧠
+- The Clean Coder - A Code of Conduct for Professional Programmers, Robert Cecil Martin
+- Option Volatility and Pricing, Sheldon Natenberg
 
 
