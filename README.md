@@ -49,4 +49,9 @@ I am a software engineer currently working within the banking industry with a pa
 - The Clean Coder - A Code of Conduct for Professional Programmers, Robert Cecil Martin
 - Option Volatility and Pricing, Sheldon Natenberg
 
+# 
 
+<div align= "center"  markdown="1">
+  
+  ![](https://komarev.com/ghpvc/?username=karan2605)
+</div>
