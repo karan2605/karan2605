@@ -53,5 +53,5 @@ I am a software engineer currently working within the banking industry with a pa
 
 <div align= "center"  markdown="1">
   
-  ![](https://komarev.com/ghpvc/?username=karan2605)
+  ![](https://komarev.com/ghpvc/?username=karan2605&style=for-the-badge)
 </div>
