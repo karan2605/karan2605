@@ -1,5 +1,5 @@
 ## About Me
-I am a software engineer currently working within the banking industry with a passion in Blockchain and Distributed Ledger Technology(DLT), feel free to check out some of my blockchain development projects below. Experienced in Java, Python and React.Js. Committed to consistency and transparency, dedicated to continuous development and a test-driven development style.
+I am a software engineer currently working within the banking industry with a passion in Blockchain and Distributed Ledger Technology(DLT), feel free to check out some of my blockchain development projects below. Experienced in Java, Python and React.Js.
 
 <div align= "center"  markdown="1">
   <a href="https://linkedin.com/in/karan-patel-s">
